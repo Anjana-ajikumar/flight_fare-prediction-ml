@@ -69,7 +69,6 @@ Final model used: Random Forest (saved as flight_pipeline.pkl)
 🗂 Folder Structure
 
 flight_fare_prediction/
-
 │── app.py                    # Flask backend
 │── train_model.py            # ML model building script
 │── model/flight_pipeline.pkl # Trained ML model
@@ -84,6 +83,7 @@ flight_fare_prediction/
 │     └── style.css           # UI styling
 │
 └── README.md                 # Project documentation
+
 
 🛠️ Technologies Used
 🔹 Machine Learning
