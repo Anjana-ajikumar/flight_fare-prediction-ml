@@ -1,4 +1,4 @@
-✈️ # Flight Fare Prediction using Machine Learning & Flask
+# Flight Fare Prediction using Machine Learning & Flask ✈️ 
 📌 Project Overview
 
 Flight ticket prices fluctuate due to multiple factors such as airline, journey date, source, destination, total stops, and more.
@@ -67,7 +67,9 @@ Linear Regression
 Final model used: Random Forest (saved as flight_pipeline.pkl)
 
 🗂 Folder Structure
+
 flight_fare_prediction/
+
 │── app.py                    # Flask backend
 │── train_model.py            # ML model building script
 │── model/flight_pipeline.pkl # Trained ML model
